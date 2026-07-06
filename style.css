@@ -163,7 +163,7 @@ input[type="radio"]{
     padding: 12px;
     border-radius: 6px;
     color: white;
-    font-weight: bold
+    font-weight: bold;
 }
 
 #vaporizacao:checked ~ .conteudo .descricao #explicacao .vaporizacao{
@@ -173,7 +173,7 @@ input[type="radio"]{
     padding: 12px;
     border-radius: 6px;
     color: white;
-    font-weight: bold
+    font-weight: bold;
 }
 
 #condensacao:checked ~ .conteudo .descricao #explicacao .condensacao{
@@ -183,7 +183,7 @@ input[type="radio"]{
     padding: 12px;
     border-radius: 6px;
     color: white;
-    font-weight: bold
+    font-weight: bold;
 }
 
 #sublimacao:checked ~ .conteudo .descricao #explicacao .sublimacao{
@@ -193,7 +193,7 @@ input[type="radio"]{
     padding: 12px;
     border-radius: 6px;
     color: white;
-    font-weight: bold
+    font-weight: bold;
 }
 
 .nav-link:hover{
