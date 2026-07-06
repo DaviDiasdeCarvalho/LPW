@@ -140,6 +140,7 @@ input[type="radio"]{
     transform: translateY(-4px) translateX(4px);
     transition: 0.2s;
     background: #294a5f;
+}
 
 .info{
     display: none;
